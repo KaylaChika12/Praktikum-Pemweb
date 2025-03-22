@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validasi Form</title>
+</head>
+<body>
+
+    <h2>Form Validasi</h2>
+    <form id="myForm">
+        <!-- Input Nama -->
+        <label for="nama">Nama:</label><br>
+        <input type="text" id="nama" name="nama"><br>
+        <span id="error-nama"></span><br> <!-- Menampilkan error jika ada -->
+
+        <!-- Input Email -->
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+        <span id="error-email"></span><br>
+
+        <!-- Input Password -->
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password"><br>
+        <span id="error-password"></span><br><br>
+
+        <!-- Tombol Submit -->
+        <button type="submit">Submit</button>
+    </form>
+
+    <script src="Soal3.js"></script> <!-- Menghubungkan dengan file JavaScript -->
+</body>
+</html>
