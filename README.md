@@ -1,3 +1,4 @@
+HEAD
 Aplikasi Manajemen Buku Pribadi
 
 Aplikasi Manajemen Buku Pribadi adalah sebuah aplikasi berbasis **React** yang dirancang untuk membantu user untuk mencatat dan mengelola daftar buku. Pengguna dapat menambahkan informasi buku yang dimiliki, sedang dibaca, atau yang ingin dibeli. Dengan userinterface yang simpel dan intuitif, aplikasi ini memudahkan dalam:
@@ -6,7 +7,7 @@ Aplikasi Manajemen Buku Pribadi adalah sebuah aplikasi berbasis **React** yang d
 - Menyortir dan memfilter berdasarkan status buku
 - Menyimpan data secara lokal di browser tanpa perlu backend
 
----
+
 
 Fitur Utama
 
@@ -18,7 +19,6 @@ Fitur Utama
 - Navigasi multi-halaman menggunakan React Router
 - Tampilan bersih dan responsif
 
----
 
 Teknologi yang Digunakan
 
@@ -37,7 +37,7 @@ Instalasi & Menjalankan Aplikasi
 
 1. **Clone repository:**
 
-```bash
+bash
 git clone https://github.com/kamu/book-manager.git
 cd book-manager
 
@@ -58,7 +58,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+ `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -112,3 +112,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Praktikum-Pemweb
+Praktikum Pemrograman Web
+c137abf931ad64d0e046ad5bd859cff2887e5647
